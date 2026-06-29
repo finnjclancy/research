@@ -124,4 +124,8 @@
 
 ---
 
+## 2026-06-29 — Future narratives (Superforecasting)
+
+**Added:** [`../01_macro/FUTURE_NARRATIVES.md`](../01_macro/FUTURE_NARRATIVES.md) — ~18 forward-looking super-scenarios across 6 clusters (AI build-out resolution, chip/geopolitics, monetary/fiscal regime, energy/climate, demographics/consumption, financial system), applying *Superforecasting* discipline: outside-view base rates, horizon-tagged granular probabilities, falsifiable signposts, book read-throughs, and premortems. Plus a probability×impact map, the correlated "chains" that matter most, and a monthly signpost dashboard. Cross-linked from the scenario tree and index. Grounded with current signposts (Stargate/sovereign AI, the AI power "grid cliff", AI-credit fragility, Taiwan/TSMC).
+
 <!-- Add new prompts below this line, keeping the same format -->

@@ -2,6 +2,8 @@
 
 > The long decision tree: **how the macro story may change → how each sector's perception/place changes → how each company's story flips.** Narrative-first. Built on [`../00_system/NARRATIVE_ENGINE.md`](../00_system/NARRATIVE_ENGINE.md) and [`../02_sectors/SECTOR_NARRATIVES.md`](../02_sectors/SECTOR_NARRATIVES.md); current regime in [`ECB_RATE_REGIME.md`](ECB_RATE_REGIME.md).
 >
+> **Longer horizon:** the multi-year "super-scenarios" (sovereign AI, the power bottleneck, the AI financing accident, fiscal dominance, Taiwan, GLP-1, the China fork, …) — forecast with *Superforecasting* discipline (base rates, granular probabilities, signposts, premortems) — live in [`FUTURE_NARRATIVES.md`](FUTURE_NARRATIVES.md). The Sx branches below are the nearer-term moves that nest inside them.
+>
 > **How to read:** each **Sx** is a *new story the world could start telling itself.* Probabilities are rough feel (June 2026), not precision — they exist so you can weight branches. Each scenario branches **MACRO → SECTOR → the COMPANY that becomes *most relevant* (the name you call first on the intercom)**, with the **direction & character** of the perception shift. Magnitudes are *relative* (the company files' §7 hold the elasticities); the tree tells you *which way and how hard*.
 >
 > **Starting point (the story today):** an easing oil shock (Brent off its >$120 peak), the **ECB's first hike since 2023**, a **crowded AI-capex super-cycle** (ASML/AMD/Amazon/ABB stage-3), a **broken-but-stabilising Novo**, and a **weak China**. Everything below is a deviation from *that*.

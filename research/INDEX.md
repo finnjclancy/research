@@ -13,6 +13,7 @@
 - **[ECB_RATE_REGIME](01_macro/ECB_RATE_REGIME.md)** — the current regime: 2026 oil shock → ECB's first hike since 2023 + the hawkish Warsh Fed.
 - **[AI_STACK_WARS](01_macro/AI_STACK_WARS.md)** — the AI-complex narratives + game theory (the biggest shared exposure in the book).
 - **[MACRO_SCENARIO_TREE](01_macro/MACRO_SCENARIO_TREE.md)** — macro→sector→company branches **S1–S14** + the live call sheet.
+- **[FUTURE_NARRATIVES](01_macro/FUTURE_NARRATIVES.md)** — Superforecasting the multi-year super-scenarios (sovereign AI, power bottleneck, AI financing accident, fiscal dominance, Taiwan, GLP-1, China fork…) with base rates, probabilities, signposts & premortems.
 - **[SECTOR_NARRATIVES](02_sectors/SECTOR_NARRATIVES.md)** — each industry's place in the world.
 - **[Narrative clusters](05_narratives/README.md)** — the relative-value / pairs view (which names move together).
 
