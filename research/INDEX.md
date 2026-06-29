@@ -81,5 +81,5 @@
 ## How to use this when news breaks
 1. Identify which **scenario branch** the news makes more probable (tree).
 2. Jump to the **most-relevant name(s)** above → open its **Narrative** map for the bull/bear story + the **Factual** §7 sensitivity map for the elasticity.
-3. Check the **History** file for how it has moved on *similar* news before (comparables).
+3. Check the **History** file for the arc, and the **[Big Moves](07_big_moves/README.md)** file for how it has moved on *similar* news before (the comparable to size the range).
 4. Deliver **stock — range — reason — follow-up**; log in [04_recaps](04_recaps/README.md).
