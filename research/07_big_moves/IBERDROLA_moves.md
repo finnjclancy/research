@@ -1,30 +1,18 @@
-# Iberdrola — Big Moves: what drove the largest single-day re-rates
+# Iberdrola — Big Moves (verified)
 
-> A regulated utility — so the big moves are **bond yields, regulatory/windfall shocks, energy-crisis volatility, and (now) the AI-power re-rating**. Lower-beta than the AI names; the "moves" are smaller but the *drivers* are distinct. Pairs with [factual §7](../03_companies/IBERDROLA.md), [narrative](../05_narratives/IBERDROLA_narrative.md), [history](../06_history/IBERDROLA_history.md). Research date 2026-06-29. *(%/dates approximate.)*
+> A regulated utility — moves on bond yields, regulatory/windfall shocks, energy-crisis volatility, and (now) the AI-power re-rating. Lower-beta; smaller daily moves. Pairs with [factual §7](../03_companies/IBERDROLA.md), [history](../06_history/IBERDROLA_history.md). Research date 2026-06-29.
+>
+> **Verification key:** ✅ confirmed · ◑ event/date confirmed, % approximate · ⚠ unverified. *(Iberdrola's exact single-day %s are largely not web-surfaceable; moves are anchored to verified events.)*
 
----
+| Date | Move | ✓ | What drove it |
+|---|---|---|---|
+| **Mar 2020 (COVID)** | drawdown then fast recovery | ◑ | Broad crash; utilities recovered faster (defensive + green bid). |
+| **Jul–Sep 2022 (Spanish windfall tax)** | sector overhang | ✅ (tax) | Spain levied a **1.2% tax on domestic utility sales** (>€1bn turnover) for 2023–24 — capped the energy-crisis upside; a multi-quarter overhang. ([Irish Times](https://www.irishtimes.com/business/economy/2022/07/12/spain-hits-banks-and-utilities-with-windfall-tax/)) |
+| **2022 (full year)** | **+6%** (resilient; FY net profit €4.34bn, +11.7%) | ◑ | Energy crisis volatile, but networks + US/UK/Brazil mix made it the resilient large-cap utility. ([Euronews](https://www.euronews.com/next/2022/07/28/iberdrola-results)) |
+| **2022–2023 (rate shock)** | multi-month de-rate | ◑ | Bond-proxy multiple compression as yields surged; fell less than levered peers. |
+| **28 Apr 2025 (Iberian blackout)** | grid-event move | ⚠ | A major Spain/Portugal power outage reportedly hit Spanish utilities/grid. **Date/impact not independently confirmed — verify before use.** |
+| **2025–2026 (AI-power re-rate)** | outperformance on no-news days | ◑ | Re-rating as **AI-power infrastructure** (data-centre PPAs + Echelon JV equity); multiple decoupling upward from yields. |
 
-## The big-move log
+**Pattern:** bond yields are the dominant multiple driver (inverse); regulatory/windfall shocks are the idiosyncratic risk; the **AI-power narrative is a new up-driver** that can override the rate headwind. Quality/networks tilt = lower beta than Enel.
 
-| Date | Move | What drove it |
-|---|---|---|
-| **Mar 2020 (COVID)** | **≈ −25–30%** peak-to-trough | Broad crash; utilities recovered faster than the market (defensive + the green-energy bid). |
-| **2022 energy crisis** | **volatile; ended +6% on the year** | Russia/Ukraine sent power prices to records; **Spain's windfall tax on generators** capped the upside and was the overhang — but Iberdrola's **networks + international (US/UK/Brazil) mix** made it resilient (FY22 net profit €4.34bn, +11.7%; largest EU utility ~€70bn). ([Euronews](https://www.euronews.com/next/2022/07/28/iberdrola-results)) |
-| **2022–2023 (rate shock)** | **multi-month de-rate** | As Bund/Treasury yields surged, the **bond-proxy** multiple compressed; Iberdrola fell less than higher-debt peers thanks to its regulated/quality tilt. |
-| **28 Apr 2025 (Iberian blackout)** ⚠ | **grid-event move** | A major Spain/Portugal power outage hit Spanish utilities/grid names. *⚠ Verify exact date/impact before quoting — flagged from general knowledge.* |
-| **2025–2026 (AI-power re-rate)** | **outperformance on no-news days** | Re-rating as an **AI-power infrastructure** play — data-centre PPAs (Microsoft) + taking *equity* in data centres (Echelon JV) → the multiple began decoupling *upward* from bond yields. |
-| **Regulatory-review days** | **±several %** | Ofgem (UK), US state PUCs, Spain's CNMC allowed-return decisions move the rate-base earnings directly. |
-
-## What the big moves teach (the pattern)
-1. **Bond yields are the dominant multiple driver** (inverse) — the de-rate of 2022–23 and the rate-sensitivity remain the core.
-2. **Regulatory/windfall shocks are the idiosyncratic risk** — Spanish windfall tax (2022), allowed-return reviews. Policy is the swing.
-3. **★ The AI-power narrative is a *new* up-driver** that can override the rate headwind — watch data-centre deal newsflow (this is the freshest re-rating lever).
-4. **Quality/networks tilt = lower beta** — it falls less in shocks than levered peers (Enel).
-
-## Fresh theses
-- **Bull — "the AI-electricity utility + a dovish pivot":** the data-centre power-demand re-rate (it's an AI-infra play now) *plus* falling yields if oil keeps easing → a double catalyst; the €60bn 4-yr grid plan compounds the rate base.
-- **Bear — "higher-for-longer + regulatory cut":** sticky inflation keeps yields up (de-rating a long-duration, debt-funded capex plan) and/or an adverse Ofgem/PUC allowed-return decision hits the RAB earnings; the premium multiple (trading above target) compresses.
-- **Variant — "quality scarcity":** in a fragmenting, energy-security world, a AAA-jurisdiction (US/UK) networks compounder is a scarce, ownable asset that deserves its premium — the bears under-rate the durability.
-
-## Sources
-Euronews https://www.euronews.com/next/2022/07/28/iberdrola-results · see [history](../06_history/IBERDROLA_history.md) & [narrative](../05_narratives/IBERDROLA_narrative.md). ⚠ Iberian-blackout date/impact unverified — confirm before use.
+**Theses:** *Bull* — AI-electricity re-rate + a dovish pivot (double catalyst); €60bn 4-yr grid plan compounds the RAB. *Bear* — higher-for-longer + an adverse Ofgem/PUC/CNMC return cut; premium multiple (trading above target) compresses. *Variant* — scarce AAA-jurisdiction networks compounder deserves its premium.

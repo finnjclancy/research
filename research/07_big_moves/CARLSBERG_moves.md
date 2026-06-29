@@ -1,29 +1,17 @@
-# Carlsberg — Big Moves: what drove the largest single-day re-rates
+# Carlsberg — Big Moves (verified)
 
-> A defensive brewer whose biggest shocks have come from its **Eastern/Russia exposure** and **China**; otherwise earnings/guidance-driven. Pairs with [factual §7](../03_companies/CARLSBERG.md), [narrative](../05_narratives/CARLSBERG_narrative.md), [history](../06_history/CARLSBERG_history.md). Research date 2026-06-29. *(%/dates approximate.)*
+> A defensive brewer whose biggest shocks came from **Russia/Eastern exposure** and **China**. Pairs with [factual §7](../03_companies/CARLSBERG.md), [history](../06_history/CARLSBERG_history.md). Research date 2026-06-29.
+>
+> **Verification key:** ✅ date & move confirmed · ◑ event/date confirmed, % approximate · ⚠ unverified.
 
----
+| Date | Move | ✓ | What drove it |
+|---|---|---|---|
+| **20 Aug 2014** | shares fell | ◑ | Profit warning — cut FY2014 operating-profit outlook on falling **Russia** sales. ([Tradingpedia](https://www.tradingpedia.com/2014/08/20/carlsberg-as-share-price-down-projects-2014-full-year-operating-profit-decline-due-to-falling-sales-in-russia/)) |
+| **11 Nov 2015** | **≈ −7% intraday, then +6% next morning** | ✅ | **Profit warning + DKK ~14bn impairments** (Russia 5bn, China 4bn, UK 0.6bn) — but the market *cheered the restructuring* announced alongside it, so shares rebounded. *(Corrects an earlier "2015 crash" framing — the net reaction turned positive.)* ([CNBC](https://www.cnbc.com/2015/11/11/carlsberg-books-14b-in-charges-on-russia-china-uk.html)) |
+| **Mar 2020 (COVID)** | ≈ −30% peak-to-trough | ◑ | On-trade (bars/restaurants) shut → volume shock; recovered on off-trade + reopening. |
+| **Mar 2022 → 2023 (Russia exit)** | write-offs / overhang | ✅ | Announced Baltika divestment (Mar 2022); **FY2022 swung to a DKK 1.06bn net loss** (from +DKK 6.85bn) on the Russia write-down; **FY2023 reported net profit DKK −40,788m** (DKK 41.5bn accumulated FX/hedging + DKK 7bn impairment on deconsolidation). ([Interfax](https://interfax.com/newsroom/top-stories/99188/), [Carlsberg](https://www.carlsberggroup.com/newsroom/fy-2023-financial-statement/)) |
+| **2024 (Britvic)** | moves on the £3.3bn deal | ◑ | Non-alc diversification; debate on price/strategy. |
 
-## The big-move log
+**Pattern:** geographic concentration (Russia) was the defining tail, not the beer cycle. China is the ongoing swing (large Western-China beer business). Premiumisation cushions volume declines. **Note:** profit warnings can rebound if a credible plan accompanies them (Nov-2015).
 
-| Date | Move | What drove it |
-|---|---|---|
-| **2015 (Russia shock)** | **profit warning + crash** | Collapse in Russian/Eastern-European beer demand → ~2,000 job cuts, big impairments; **9M-2015 swung to a DKK 2.665bn loss** (from DKK 4.66bn profit). New CEO ('t Hart) + SAIL'22 reset followed. |
-| **Mar 2020 (COVID)** | **≈ −30%** peak-to-trough | On-trade (bars/restaurants) shut → volume shock; recovered as off-trade + reopening normalised. |
-| **2022 (Russia exit / Ukraine war)** | **drawdown + write-offs** | Decision to exit Russia (Baltika) → ultimately a **~DKK 47.75bn total loss** (DKK 7bn impairment + DKK 41.5bn accumulated FX/hedging) recognised on disposal (Jun 2023). A long overhang. |
-| **Britvic deal (2024)** | **moves on the £3.3bn acquisition** | Non-alc diversification; the market debated the price/strategic logic. |
-| **China-sensitive quarters (2023–26)** | **±several %** | Carlsberg's large **Western-China** beer exposure means Chinese-consumer headlines + volume prints swing it. |
-| **Quarterly trading statements** | **±3–6%** | Organic operating-profit growth + China volume/value + premium mix. |
-
-## What the big moves teach (the pattern)
-1. **Geographic concentration is the tail** — the 2015 Russia shock and the 2022–23 Russia exit were the defining drawdowns; concentration risk, not the beer cycle, did the damage.
-2. **China is the swing** — its largest market; consumer-sentiment headlines move it.
-3. **Premiumisation cushions volume declines** — value-over-volume keeps profit growing even as volumes fall, dampening earnings-day downside.
-
-## Fresh theses
-- **Bull — "value over volume + China recovery + Britvic":** premium mix + NOLO + Britvic synergies keep organic profit growing despite falling beer volumes; a China-consumer stabilisation (stimulus) is the upside kicker; cheap (~15×) vs Unilever.
-- **Bear — "structural alcohol decline + GLP-1 + weak China":** moderation/younger-gen + (eventually) GLP-1 dent volumes faster than premiumisation offsets, and China stays weak — the secular bear becomes a present-tense earnings problem.
-- **Variant — "the beyond-beer re-rate":** if Britvic/non-alc proves Carlsberg is a *beverages* company (not just brewer), the multiple re-rates toward staples peers — the market still prices it as a structurally-declining brewer.
-
-## Sources
-See [history](../06_history/CARLSBERG_history.md) (Russia 2015/2023 detail with sources) & [narrative](../05_narratives/CARLSBERG_narrative.md).
+**Theses:** *Bull* — value-over-volume (premium + NOLO + Britvic) + a China-consumer recovery; cheap (~15×). *Bear* — structural alcohol decline + GLP-1 + weak China. *Variant* — a "beyond-beer" re-rate toward staples peers if Britvic/non-alc proves it's a beverages co.
