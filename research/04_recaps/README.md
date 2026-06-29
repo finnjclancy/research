@@ -5,6 +5,7 @@ The daily research + calibration log. One file per trading day: `YYYY-MM-DD.md`,
 - **[HOW_TO_RECAP.md](HOW_TO_RECAP.md)** — the method: purpose, the one principle (insight-first), what to include, traps to avoid, and the **daily workflow** (news → prior → reality → recap). Start here.
 - **[_TEMPLATE.md](_TEMPLATE.md)** — copy this each day (Macro · Single Stock · Classes/Chats · Experience · Tools · Key Takeaways · Focus next week).
 - **[2026-06-27_example.md](2026-06-27_example.md)** — a worked example in our own coverage + macro.
+- **[DREAM_RECAP.md](DREAM_RECAP.md)** — the *gold standard*: the aspirational maximum hitting every domain (geopolitics, macro, politics, single stocks, FX, commodities, rates, credit, sectors, tech, sentiment), plus the daily habits — 3 questions for 3 colleagues, honest self-review, and a gradable prediction.
 
 ## The point
 These make your thinking visible and sharpen the reflex — so they must be **insightful, honest, and detailed** (and they double as a strong knowledge-sharing note if shared with peers). The recurring move that gives them value: **"I thought X, the market did Y, because Z"** — expectation vs reality, then the insight. That is the calibration loop for the [`NARRATIVE_ENGINE`](../00_system/NARRATIVE_ENGINE.md) reflex.
