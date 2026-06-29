@@ -3,7 +3,8 @@
 The daily research + calibration log. One file per trading day: `YYYY-MM-DD.md`, copied from [`_TEMPLATE.md`](_TEMPLATE.md).
 
 - **[HOW_TO_RECAP.md](HOW_TO_RECAP.md)** — the method: purpose, the one principle (insight-first), what to include, traps to avoid, and the **daily workflow** (news → prior → reality → recap). Start here.
-- **[_TEMPLATE.md](_TEMPLATE.md)** — copy this each day (Macro · Single Stock · Classes/Chats · Experience · Tools · Key Takeaways · Focus next week).
+- **[_TEMPLATE.md](_TEMPLATE.md)** — the prose template (Macro · Single Stock · Classes/Chats · Experience · Tools · Key Takeaways · Focus next week).
+- **[_FORM.md](_FORM.md)** — the strict **fill-in-the-blanks form**: copy and replace every `{…}`. Two core shapes — the *question* form (`asked {name} on {topic}…`) and the *prediction* form (`{news} broke, I thought {asset} would move {direction} by {range}, in reality {distance} {direction}, I was {right/wrong} because {reason}…`).
 - **[2026-06-27_example.md](2026-06-27_example.md)** — a worked example in our own coverage + macro.
 - **[DREAM_RECAP.md](DREAM_RECAP.md)** — the *gold standard*: the aspirational maximum hitting every domain (geopolitics, macro, politics, single stocks, FX, commodities, rates, credit, sectors, tech, sentiment), plus the daily habits — 3 questions for 3 colleagues, honest self-review, and a gradable prediction.
 
