@@ -1,21 +1,24 @@
 # Daily Recaps
 
-The discipline that turns the framework into skill. One file per trading day: `YYYY-MM-DD.md`, copied from `_TEMPLATE.md`.
+The daily research + calibration log. One file per trading day: `YYYY-MM-DD.md`, copied from [`_TEMPLATE.md`](_TEMPLATE.md).
+
+- **[HOW_TO_RECAP.md](HOW_TO_RECAP.md)** — the method: purpose, the one principle (insight-first), what to include, traps to avoid, and the **daily workflow** (news → prior → reality → recap). Start here.
+- **[_TEMPLATE.md](_TEMPLATE.md)** — copy this each day (Macro · Single Stock · Classes/Chats · Experience · Tools · Key Takeaways · Focus next week).
+- **[2026-06-27_example.md](2026-06-27_example.md)** — a worked example in our own coverage + macro.
 
 ## The point
-This is the **calibration loop** from `00_system/MENTAL_MODEL_FRAMEWORK.md` §4.4. The recap isn't a journal of what happened — it's an audit of **my predictions vs reality**, so that next time a headline hits, the range comes faster and tighter.
+These make your thinking visible and sharpen the reflex — so they must be **insightful, honest, and detailed** (and they double as a strong knowledge-sharing note if shared with peers). The recurring move that gives them value: **"I thought X, the market did Y, because Z"** — expectation vs reality, then the insight. That is the calibration loop for the [`NARRATIVE_ENGINE`](../00_system/NARRATIVE_ENGINE.md) reflex.
 
 ## Non-negotiable rules
-1. **Log the prior before the outcome.** Write what you expected *as if you didn't know how it closed*. No hindsight editing — that destroys the whole point.
-2. **Always anchor to "what was priced in."** Most errors aren't "I read the news wrong," they're "I mis-judged what was already in the price." That's the field to interrogate.
-3. **Diagnose the error type** — direction / magnitude / mispriced-the-priced-in / positioning / no-prior. Patterns across days are where the edge compounds.
-4. **Process takeaways, not event takeaways.** "Novo gapped on script data" is an event. "I keep under-weighting positioning unwinds on crowded longs" is a lesson.
+1. **Log the prior before the outcome** — write what you expected as if you didn't know how it closed. No hindsight editing.
+2. **Anchor to "what was priced in"** — most misses are mis-judging the prior, not misreading the news. Your prior bank = the [company files](../03_companies/) (§7) + [narrative maps](../05_narratives/).
+3. **Lead with the insight / where you diverge from the market** — never just summarise a news story.
+4. **Be honest about mistakes** — that's where the learning (and the credibility) is.
 
-## Coverage to sweep each day (14)
-asml · bnp · abbn · ulvr · enel · ibe · carlb · knebv · embracb · mele · zal · bmed · novob · aca
-(+ US: amzn, amd · macro: China, Iran/ME, US Fed)
+## Coverage to sweep each day (16 + macro)
+asml · bnp · abbn · ulvr · enel · ibe · carlb · knebv · embracb · mele · zal · bmed · novob · aca · amzn · amd · (macro: China, Iran/ME, US Fed)
 
 ## Cadence
-- **Intraday:** jot priors *before* prints/data (so they're honest).
-- **EOD:** fill the template, score the calls, write ≤5 process takeaways.
-- **Weekly:** skim the week's scorecards for recurring error sources → update the relevant company one-pagers and the sensitivity maps.
+- **Morning:** scan macro + coverage; **log priors before the reaction.**
+- **EOD:** write up the 1–3 most insight-rich items + classes/chats/tools/takeaways/focus.
+- **Weekly:** skim for recurring error patterns → update the one-pagers so next week's priors are sharper; write a "this week / next week" block.

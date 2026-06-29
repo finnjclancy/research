@@ -1,58 +1,41 @@
-# Daily Recap — YYYY-MM-DD
+# Daily Recap — [Weekday, DD Month]
 
-> Not a diary. A **process audit** of my predictions vs reality, so the News→Range reflex calibrates. Rule: every event gets logged with what I *expected before I knew the outcome* — no hindsight rewriting. If I didn't have a prior, that itself is the finding.
-
-**Regime line (today):** _the pivotal market driver + tape (good-news-good / good-news-bad). 1 sentence._
-**Cross-asset moves that mattered:** _rates / USD / Brent / credit / vol — only what moved the narrative._
+> _One line on the day: the pivotal market story + what you spent time on._ Keep it **insight-first**, not a diary. The value is in *expectation vs reality* and *interactions* — never just "news came out, stock moved X%."
 
 ---
 
-## 1. Event log (one block per material news item)
+## Macro
+> The pivotal story moving the tape today + the read-through to my names. Where I had a view: **what I expected vs what happened, and why** (the insight). 1–3 bullets.
+-
 
-> Do a block for each name in coverage that had news, plus any macro read-through. Be ruthless about §2 (what was priced in) — that's where the learning is.
+## Single Stock — [the 1–3 names that actually mattered today]
+> For each: lead with the *insight*, not the headline. The skeleton (compress to prose like the examples):
+### TICKER ( move vs index / vs sector )
+- **News:** the fact / the number / the surprise vs what was expected.
+- **My prior — what I expected & why:** the range I'd have called + the reasoning, anchored to **what was already priced in** (consensus, positioning, the narrative). *Was my prior current or stale?*
+- **What actually happened & how it traded:** the move + the *character* (gap-and-fade, slow grind, reversed on the call…).
+- **★ The insight:** what the market actually focused on / why it surprised me / **where my view diverges from the market**. ← this is the part that has value.
+- **Lesson / update:** what I now know about how *this name* trades *this type* of news → what to update in its [factual §7 sensitivity map](../03_companies/) or [narrative map](../05_narratives/).
 
-### [TICKER / Macro] — <one-line headline>
-- **News:** what actually came in (the fact, the number, the surprise vs the print).
-- **What was priced in (my prior):** consensus / positioning / the narrative going in. *Was this current or stale?*
-- **My expectation:** the move I'd have called — **base / bull / bear range** — and the skew.
-- **Why I expected that:** the reasoning chain (which driver, what surprise size, what sensitivity).
-- **What actually happened:** the actual move (%) and *how* it traded (gap-and-fade, slow grind, reversed on the call, etc.).
-- **The gap — was I wrong, and how:**
-  - Direction ☐ right ☐ wrong
-  - Magnitude ☐ in range ☐ too big ☐ too small
-  - Error source ☐ mispriced-the-priced-in ☐ wrong-earnings-impact ☐ wrong-multiple/narrative ☐ ignored-positioning ☐ liquidity/microstructure ☐ no prior
-- **Lesson / what I update:** the specific thing I now know about how *this name* trades this *type* of news.
-- **Build-on:** what to add to the company one-pager / sensitivity map / "what's priced in" so next time the prior is sharper.
+## Classes / Talks / Chats
+> Talks/classes attended and conversations with peers / other researchers. Takeaway → how I apply it. Note where views diverged.
+-
 
-<!-- repeat the block per event -->
+## Experience / Desk / Project
+> Notable experiences (desk rotation, a project, a new format) and what they taught me. Brief.
+-
 
----
+## Tools & Tech
+> A useful tool/function (BBG SURP, ECO, the dashboard, a screen) → how it helped. Any tech struggle.
+-
 
-## 2. What I missed / had no prior on
-> News I couldn't have rated because the standing pre-work was stale or absent. Each of these is a gap to close. List the name + what one-pager field needs building.
-
----
-
-## 3. Narrative-shift watch
-> Any name where the story may be turning (estimates revising, stock ignoring good/bad news, sell-side re-framing, new KPI being quoted, management language change). Note the tell and the "story dies if ___" condition.
-
----
-
-## 4. Scorecard (calibration)
-| Call | Direction | In range? | Error source | Confidence (1-5) |
-|------|-----------|-----------|--------------|------------------|
-| | | | | |
-
-**Hit rate today:** _x / y direction · z / y in-range._
-
----
-
-## 5. Key takeaways (≤5, process not events)
+## Key Takeaways (honest — esp. mistakes & hard situations)
+> The honest lessons. Where I was wrong and why. Where my view diverges from the market. ≤5, process not events.
 1.
-2.
-3.
 
-## 6. Tomorrow — catalysts & open questions
-- **Calendar:** earnings / data / central-bank / readouts due, with what's expected.
-- **Where I'm exposed to being wrong:** the name/event I'm least confident pricing.
-- **Pre-work to do tonight:** which one-pagers to refresh before the open.
+## Focus for tomorrow / next week
+> Names I'm reading up on · catalysts on the calendar (earnings/data/CB) with what's expected · prep · open questions to ask.
+-
+
+---
+*Traps to avoid: (1) don't blog the day; (2) don't just summarise a news story — share the insight/interaction; (3) lead with "I thought X, the market did Y, because Z." Honesty > polish. Read your group's recaps and reference them.*
