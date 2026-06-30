@@ -4,6 +4,9 @@
 >
 > **★ Verification convention (every move is marked):** ✅ = date *and* % confirmed via a cited source · ◑ = event/date confirmed but the single-day % is approximate (not independently confirmed) · ⚠ = unverified, flagged. **Honesty note:** for many European industrials/utilities/staples, exact historic single-day percentages are not reliably web-surfaceable, so those moves are anchored to a **verified dated event + driver** rather than a possibly-wrong number. US/large-cap and event-day moves (earnings, deals, trial readouts) are mostly ✅.
 
+## ★ Start here — the consolidated learning page
+**[MARKET_DRIVERS.md](MARKET_DRIVERS.md)** — the **masterclass**: every documented large move across all 16 names in one self-contained, copy-paste page, organised by **the market driver that caused it** (14 drivers), with magnitudes, mechanisms, a magnitude ladder, a per-name cheat sheet, and the cross-asset cascade. Built to *learn the drivers*. The per-name files below are the detail.
+
 ## The files
 [ASML](ASML_moves.md) · [AMD](AMD_moves.md) · [Melexis](MELEXIS_moves.md) · [BNP](BNP_PARIBAS_moves.md) · [Crédit Agricole](CREDIT_AGRICOLE_moves.md) · [Banca Mediolanum](BANCA_MEDIOLANUM_moves.md) · [Iberdrola](IBERDROLA_moves.md) · [Enel](ENEL_moves.md) · [ABB](ABB_moves.md) · [Kone](KONE_moves.md) · [Unilever](UNILEVER_moves.md) · [Carlsberg](CARLSBERG_moves.md) · [Novo Nordisk](NOVO_NORDISK_moves.md) · [Zalando](ZALANDO_moves.md) · [Amazon](AMAZON_moves.md) · [Embracer](EMBRACER_moves.md)
 
