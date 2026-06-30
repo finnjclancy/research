@@ -16,6 +16,7 @@
 - **[FUTURE_NARRATIVES](01_macro/FUTURE_NARRATIVES.md)** — Superforecasting the multi-year super-scenarios (sovereign AI, power bottleneck, AI financing accident, fiscal dominance, Taiwan, GLP-1, China fork…) with base rates, probabilities, signposts & premortems.
 - **[SECTOR_NARRATIVES](02_sectors/SECTOR_NARRATIVES.md)** — each industry's place in the world.
 - **[Narrative clusters](05_narratives/README.md)** — the relative-value / pairs view (which names move together).
+- **[NEXT_NARRATIVES](05_narratives/NEXT_NARRATIVES.md)** — emerging drivers + the *next* narrative for each name (priced-now vs what's-next + signposts): the Inference Flip, AI depreciation, behind-the-meter power, High-NA divergence, bank consolidation, GLP-1 platform.
 
 ---
 

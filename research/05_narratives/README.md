@@ -4,6 +4,9 @@ Narrative-first companions to the factual files in [`../03_companies/`](../03_co
 
 **Use:** when picking names you like/dislike, read the map to know *what story you're betting on*, *what flips it*, and *which scenario branch it wins/loses in*. The whole point is to know the **market's perception** so you can price a news-driven re-rate fast.
 
+## ★ Forward ideation — the next narratives
+**[NEXT_NARRATIVES.md](NEXT_NARRATIVES.md)** — the *emerging* drivers (the Inference Flip, AI depreciation/earnings-quality, behind-the-meter power, High-NA divergence, European bank consolidation, GLP-1 platform expansion, agentic commerce) and, for each of the 16, **what's priced now vs the next narrative** that could become dominant — with the signpost to watch.
+
 ## The 16 maps
 Semis/AI: [ASML](ASML_narrative.md) · [AMD](AMD_narrative.md) · [Melexis](MELEXIS_narrative.md)
 Banks: [BNP](BNP_PARIBAS_narrative.md) · [Crédit Agricole](CREDIT_AGRICOLE_narrative.md) · [Banca Mediolanum](BANCA_MEDIOLANUM_narrative.md)
